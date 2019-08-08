@@ -2,14 +2,12 @@
 Learning ML from scratch
 
 
-Learn_Machine_Learning_in_3_Months
-This is the Curriculum for "Learn Machine Learning in 3 Months" this video by Siraj Raval on Youtube
 
-Month 1
+#Month 1
 Week 1 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
-Week 2 Calculus
+#Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 Week 3 Probability
